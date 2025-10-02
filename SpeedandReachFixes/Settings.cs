@@ -48,7 +48,7 @@ namespace SpeedandReachFixes
             new WeaponStats(1, false, Skyrim.Keyword.WeapTypeWarAxe, .6F, 0.6F),
             new WeaponStats(1, false, Skyrim.Keyword.WeapTypeWarhammer, 0.6F, 0.8F),
             new WeaponStats(2, true, NewArmoury.Keyword.WeapTypeClaw, Constants.NullFloat, 0.41F),
-            new WeaponStats(2, true, NewArmoury.Keyword.WeapTypeHalberd, Constants.NullFloat, 0.25F),
+            new WeaponStats(2, true, NewArmoury.Keyword.WeapTypeHalberd, Constants.NullFloat, 0.15F),
             new WeaponStats(2, true, NewArmoury.Keyword.WeapTypePike, Constants.NullFloat, 0.2F),
             new WeaponStats(2, true, NewArmoury.Keyword.WeapTypeQtrStaff, Constants.NullFloat, 0.25F),
             new WeaponStats(2, true, NewArmoury.Keyword.WeapTypeRapier, Constants.NullFloat, 0.2F),
