@@ -33,7 +33,7 @@ namespace SpeedandReachFixes
 
         [SettingName("Enable Speed Changes")]
         [Tooltip("Global toggle for speed changes, if unchecked, all speed changes will be disabled.")]
-        public bool EnableSpeedChangesGlobal = true;
+        public bool EnableSpeedChangesGlobal = false;
 
         // List of WeaponStats objects, each relating to a different weapon keyword.
         [SettingName("Stat Categories")]
